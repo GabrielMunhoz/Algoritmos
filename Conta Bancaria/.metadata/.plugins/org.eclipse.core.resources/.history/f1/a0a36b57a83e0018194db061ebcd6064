@@ -1,0 +1,9 @@
+
+public class Especial extends Conta {
+
+	private double limite;
+public Especial() {
+	limite = 300;	
+}
+
+}
